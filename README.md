@@ -5,6 +5,10 @@ An USB-C to UART adapter powered by FT234XD or CH330N.
 
 ![](docs/back-side.jpg)
 
+## Schematic
+
+[Link](docs/Schematic_USB-C-Serial_Sheet-1_20190707141051.pdf)
+
 ## BOM
 
 Designator	|	Name	|	Footprint	|	Quantity	|	Options
